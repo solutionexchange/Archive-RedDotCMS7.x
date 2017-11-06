@@ -10,3 +10,5 @@ These utilities are not official components of the Open Text Web Solutions Manag
 
 CONDITIONS OF USE:
 These utilities are offered free of charge, and may not be resold.
+
+(c) Copyright 2017 OpenText Corp. All Rights Reserved.
